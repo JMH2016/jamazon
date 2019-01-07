@@ -1,5 +1,6 @@
 # Jamazon
-This application implements a simple command line based storefront using Node.js and MySQL. There are three interfaces available in this application:  customer, manager, and supervisor.
+This application implements a simple command line based storefront using Node.js and MySQL. 
+There are three interfaces available in this application:  customer, manager, and supervisor.
 
 ## Technologies Used
 1.	Javascript
