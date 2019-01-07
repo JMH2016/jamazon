@@ -14,8 +14,10 @@ This application implements a simple command line based storefront using Node.js
 
 ### Customer Interface
 ![](https://github.com/JMH2016/jamazon/blob/master/screenshot/customer.png)
-      
-        
-      
+
 ### Manager Interface
+![](https://github.com/JMH2016/jamazon/blob/master/screenshot/manager.png)
+
 ### Supervisor Interface
+![](https://github.com/JMH2016/jamazon/blob/master/screenshot/supervisor.png)
+
