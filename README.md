@@ -13,5 +13,7 @@ This application implements a simple command line based storefront using Node.js
     -	cli-table
 
 ### Customer Interface
+(https://github.com/JMH2016/jamazon/screenshot/螢幕快照 2019-01-07 上午6.03.51.png)
+      
 ### Manager Interface
 ### Supervisor Interface
