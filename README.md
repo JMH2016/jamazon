@@ -13,7 +13,7 @@ This application implements a simple command line based storefront using Node.js
     -	cli-table
 
 ### Customer Interface
-(./jamazon/screenshot/customer.png)
+![](https://github.com/JMH2016/jamazon/blob/master/screenshot/customer.png)
       
         
       
